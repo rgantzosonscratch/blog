@@ -1,8 +1,8 @@
 ---
-title: YouTube Heatseeker allows you to jump to the most watched parts of a video
-description: A new youtube experiment allows you to find and watch the most watched parts of a video. What will this do to creators?
-category: YouTube, Experimental feature
-createdAt: Wednesday, December 23 2021, 3:57 PM
+title: hello, world
+description: welcome to my new blog made by Explosion-Scratch
+category: Welcome, Starter
+createdAt: Tuesday, June 14 2022, 7:13 PM
 ---
 
 Hi guys! I usually don't write articles about non code-related things but I though I'd branch out a bit! YouTube has released an experimental feature they're calling "Heatseeker".
